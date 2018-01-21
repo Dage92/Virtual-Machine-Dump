@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<!DOCTYPE CodeBlocks_layout_file>
+<CodeBlocks_layout_file>
+	<File name="constantes.h" open="1" top="1">
+		<Cursor position="683" topLine="0"/>
+	</File>
+	<File name="editeur.c" open="1" top="0">
+		<Cursor position="4921" topLine="95"/>
+	</File>
+	<File name="editeur.h" open="1" top="0">
+		<Cursor position="242" topLine="0"/>
+	</File>
+	<File name="fichiers.c" open="1" top="0">
+		<Cursor position="1626" topLine="10"/>
+	</File>
+	<File name="fichiers.h" open="1" top="0">
+		<Cursor position="332" topLine="0"/>
+	</File>
+	<File name="jeu.c" open="1" top="0">
+		<Cursor position="2311" topLine="9"/>
+	</File>
+	<File name="jeu.h" open="1" top="0">
+		<Cursor position="346" topLine="0"/>
+	</File>
+	<File name="main.c" open="1" top="0">
+		<Cursor position="1071" topLine="27"/>
+	</File>
+	<File name="ressources.rc" open="0" top="0">
+		<Cursor position="2" topLine="0"/>
+	</File>
+</CodeBlocks_layout_file>
